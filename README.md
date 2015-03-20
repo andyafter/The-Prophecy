@@ -5,3 +5,5 @@ information. With the machine learning algorithms we can also see the connection
 
 To run this website correctly you will have to install MongoDB first. And then switch to the folder that contains
 requirements.txt, run "pip install -r requirements.txt".
+
+If you have any problems, which is highly possible because actually this is just started, please make sure you email me at [andyafter@gmail.com].
