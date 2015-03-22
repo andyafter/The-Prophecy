@@ -8,4 +8,7 @@ requirements.txt, run "pip install -r requirements.txt".
 
 If you have any problems, which is highly possible because actually this is just started, please make sure you email me at [andyafter@gmail.com].
 
-For linux user(I am running on a mac) you will also have to make sure that you installed python-dev.
+For linux user(I am running on a mac) you will also have to make sure that you installed python-dev. Also installing the numpy should be done with:
+
+- sudo apt-get install python-numpy
+- sudo apt-get install python-scipy
